@@ -1,0 +1,17 @@
+--- 
+automatic_scaling: 
+  cool_down_period_sec: 120
+  cpu_utilization: 
+    target_utilization: 0.9
+  max_num_instances: 4
+  min_num_instances: 1
+  target_concurrent_requests: 100
+entrypoint: "gunicorn -b:$PORT main:app"
+env: flex
+resources: 
+  cpu: 2
+  disk_size_gb: 20
+  memory_gb: 4
+runtime: python
+runtime_config: 
+  python_version: 3

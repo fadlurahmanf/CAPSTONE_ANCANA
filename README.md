@@ -2,7 +2,7 @@
 
 Projek ini dikembangkan sebagai salah satu capstone project dariBangkit Academy. Deliverables yang diharapkan dari projek ini adalah pembuatan aplikasi (ANCANA) yang memiliki fitur dalam memprediksi bencana Alam yang terjadi. Untuk melihat model Machine Learning yang dibuat oleh kelompok kami dapat dilihat dengan mengakses Hyperlink berikut [Google Colab](https://colab.research.google.com/drive/12gzc5PqxnKfWn4LO_S5XKL2BXNCBWIDN?usp=sharing"). Kita juga akan memanfaatkan flask dashboard sederhana sebagai perantara untuk deploy dalam google cloud platform.
 
-FILE DOWNLOAD APK : https://drive.google.com/drive/folders/1nH9zyz4rr_88fy1i8S7hvMzU8ARNo0ea?usp=sharing
+FILE DOWNLOAD APK : https://drive.google.com/drive/folders/1Kuxhekmo9JblH16YXvqyxgEGDeh2I_X-?usp=sharing
 
 
 ## Dependencies

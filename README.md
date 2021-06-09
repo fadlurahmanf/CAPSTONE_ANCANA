@@ -45,7 +45,7 @@ Aplikasi user terbagi menjadi 4 menu utama, yang pertama adalah menu home. pada 
 
 Aplikasi Admin terdiri dari 3 menu utama, menu waiting, menu onProgress, dan menu Complete. Menu waiting adalah menu yang berisi daftar laporan dari user yang belum diproses oleh petugas. Menu onProgress adalah menu yang berisi daftar kasus yang sudah mulai di proses oleh petugas tetapi belum selesai. menu complete berisi detail laporan yang sudah diselesaikan oleh petugas__
 
-# disaster_prediction
+# DEPLOY ML MODEL TO THE CLOUD
 machine learning model deploy
 
 Disaster Prediction
